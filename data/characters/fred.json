@@ -1,9 +1,20 @@
 {
-    "version": 2,
-    "name": "Fred",
-    "asset_folder": "fred",
-    "ui_folder":"fred",
-    "results_folder":"fred",
-    "icon_index": 1,
+    "version": 3,
+    "name": "fred",
+    "folders": {
+        "assets": "fred",
+        "ui":"fred",
+        "results":"fred"
+    },
+    "icons":{
+        "prefix":"fred",
+        "winning_icon":false
+    },
+    "char_select": {
+        "icon_index": 1,
+        "regular_anim":"fred-chill",
+        "cancel_anim":"fred-cancelled",
+        "swap_anim":"fred-fling"
+    },
     "unlocked": true
 }
