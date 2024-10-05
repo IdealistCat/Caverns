@@ -1,0 +1,7 @@
+{
+    "version": 1,
+    "name": "Fred",
+    "starting_path": "start",
+    "ui_style":"fred",
+    "unlocked": true
+}
