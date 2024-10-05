@@ -1,0 +1,11 @@
+{
+  "menu":"title",
+  "menu_api_version": 1,
+  "props":[
+    { 
+      "costume": "backdrop",
+      "position":[0,0],
+      "broadcast":""
+    }
+  ]
+}
