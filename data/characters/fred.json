@@ -1,7 +1,9 @@
 {
-    "version": 1,
+    "version": 2,
     "name": "Fred",
-    "starting_path": "start",
-    "ui_style":"fred",
+    "asset_folder": "fred",
+    "ui_folder":"fred",
+    "results_folder":"fred",
+    "icon_index": 1,
     "unlocked": true
 }
