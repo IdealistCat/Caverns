@@ -1,0 +1,22 @@
+{
+    "menu_api_version": 3,
+    "props":[
+      { 
+        "costume": "menu/charSel/characterSelecting",
+        "position":[0,0],
+        "broadcast":"",
+        "delete_previous_menu":false,
+        "layer":1,
+        "script":""
+      },
+      { 
+        "costume": "menu/charSel/characterTemplate",
+        "position":[0,0],
+        "broadcast":"",
+        "delete_previous_menu":false,
+        "layer":2,
+        "script":"cs_charScript"
+      }
+    ]
+  }
+  

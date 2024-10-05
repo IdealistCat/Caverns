@@ -1,19 +1,21 @@
 {
-  "menu_api_version": 2,
+  "menu_api_version": 3,
   "props":[
     { 
       "costume": "menu/front_cave",
       "position":[0,0],
       "broadcast":"",
       "delete_previous_menu":false,
-      "layer":4
+      "layer":4,
+      "script":""
     },
     { 
       "costume": "menu/back_cave",
       "position":[0,0],
       "broadcast":"",
       "delete_previous_menu":false,
-      "layer":1
+      "layer":1,
+      "script":""
     }
   ]
 }
