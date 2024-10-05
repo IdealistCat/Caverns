@@ -1,11 +1,12 @@
 {
-    "api_version": 4,
-    "file_version": 4,
+    "api_version": 5,
+    "file_version": 5,
     "name": "fred",
     "description": "Your average teen doing the usual and not following the rules.",
     "folders": {
         "ui":"fred",
-        "results":"fred"
+        "results":"fred",
+        "story":"fred"
     },
     "icons":{
         "prefix":"fred",

@@ -1,0 +1,28 @@
+{
+    "dialogue:":[
+        {
+            "text":"you wake up in a forest, there is a cave near by. What do you do?",
+            "backdrop":"forestWithCave",
+            "options": [
+                {
+                    "text": "enter cave",
+                    "next": "cave_enter",
+                    "next_type": "changeJson"
+                },
+                {
+                    "text": "ignore cave",
+                    "next": 2
+                }
+            ],
+            "options_enabled": true,
+            "action":""
+        },
+        {
+            "text":"you wake up in a forest, there is a cave near by. What do you do?",
+            "backdrop":"forestWithCave",
+            "options": [],
+            "options_enabled": false,
+            "action":"end"
+        }
+    ]
+}
