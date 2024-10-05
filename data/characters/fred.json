@@ -1,8 +1,9 @@
 {
-    "api_version": 5,
-    "file_version": 5,
+    "api_version": 6,
+    "file_version": 6,
     "name": "fred",
     "description": "Your average teen doing the usual and not following the rules.",
+    "start_filename":"start",
     "folders": {
         "ui":"fred",
         "results":"fred",
