@@ -1,8 +1,9 @@
 {
-    "version": 3,
+    "api_version": 4,
+    "file_version": 4,
     "name": "fred",
+    "description": "Your average teen doing the usual and not following the rules.",
     "folders": {
-        "assets": "fred",
         "ui":"fred",
         "results":"fred"
     },
@@ -12,9 +13,18 @@
     },
     "char_select": {
         "icon_index": 1,
+        "icon":"fred",
         "regular_anim":"fred-chill",
         "cancel_anim":"fred-cancelled",
-        "swap_anim":"fred-fling"
+        "swap_anim":"fred-fling",
+        "accept_anim":"fred-vibe",
+        "leave_anim":"fred-spin"
+    },
+    "results": {
+        "default_asset": "fred-good",
+        "bad_asset": "fred-bad",
+        "good_asset": "fred-good",
+        "excellent_asset": "fred-excellent"
     },
     "unlocked": true
 }
