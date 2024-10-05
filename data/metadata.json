@@ -1,4 +1,12 @@
 {
-  "version":"1.0.2",
-  "state":"pre-alpha"
+  "release_info": {
+    "version":"1.0.1",
+    "state":"pre-alpha"
+  },
+  "debug_info": {
+    "version":"1.0.2",
+    "state":"pre-alpha"
+  },
+  "debug": true,
+  "debug_message": "version in progress: [version]"
 }
