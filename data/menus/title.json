@@ -1,11 +1,21 @@
 {
   "menu":"title",
-  "menu_api_version": 1,
+  "menu_api_version": 2,
   "props":[
     { 
-      "costume": "backdrop",
+      "costume": "front_cave",
       "position":[0,0],
-      "broadcast":""
-    }
+      "broadcast":"",
+      "delete_previous_menu":false,
+      "layer":4
+    },
+    { 
+      "costume": "back_cavd",
+      "position":[0,0],
+      "broadcast":"",
+      "delete_previous_menu":false,
+      "layer":1
+    },
+
   ]
 }
